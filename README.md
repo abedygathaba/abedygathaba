@@ -6,12 +6,12 @@ The Man From Mars but Codes for people On Earth
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning ... learning quantum programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-💬 Ask me about ... AI, IoT
-📫 How to reach me: ... abedygathaba@gmail.com 
-😄 Pronouns: ... Sir/Lord/Mr
+- 🔭 I’m currently working on ... Testing Rakwireless 
+- 🌱 I’m currently learning ... learning quantum programming
+<-- - 👯 I’m looking to collaborate on ...
+ 🤔 I’m looking for help with ... -->
+- 💬 Ask me about ... AI, IoT , Quantum Computing
+<-- 📫 How to reach me: ... abedygathaba@gmail.com -->
+- 😄 Pronouns: ... Sir/Lord/Mr
 - ⚡ Fun fact: ... Code Never lies. Comment sometimes do.
 
