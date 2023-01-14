@@ -9,9 +9,9 @@ Here are some ideas to get you started:
  📫 How to reach me: ... abedygathaba@gmail.com 
 -->
 
-- 🔭 I’m currently working on ... Testing Rakwireless 
+- 🔭 I’m currently working on ... OpenTether 
 - 🌱 I’m currently learning ... learning quantum programming
-- 💬 Ask me about ... AI, IoT , Quantum Computing
+- 💬 Ask me about ... AI, IoT, Quantum Computing, & 5G.
 - 😄 Pronouns: ... Sir/Lord/Mr
 - ⚡ Fun fact: ... Code Never lies. Comment sometimes do.
 
